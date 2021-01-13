@@ -1,12 +1,4 @@
 
-# FIT5147: Data Exploration and Visulization
-# Assignment 5
-
-
-
-# Name: Rahul Joseph  
-# StudentID: 30347734
-
 ####################################################################################
 #  LIBRARIES NEEDED FOR THIS FILE TO RUN                                           #
 ####################################################################################
